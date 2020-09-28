@@ -4,11 +4,11 @@ This is my repository of things related to open source such as ebooks, applicati
 
 # Linux Distro
 
-Ubuntu https://ubuntu.com/
-Linux Mint  https://linuxmint.com/
+1. Ubuntu https://ubuntu.com/
+2. Linux Mint  https://linuxmint.com/
 
 # 
 
-# Ebook
-1. Open index.html in your browser
-2. have fun. 
+# DistroWatch
+
+https://distrowatch.com/
