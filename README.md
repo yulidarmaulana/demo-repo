@@ -1,11 +1,14 @@
-# Demo
+# Open Source 
 
-Some description!
+This is my repository of things related to open source such as ebooks, applications, linux, websites, and many more
 
-# Subheader
+# Linux Distro
 
-Watch tutorial on YouTube.
+Ubuntu https://ubuntu.com/
+Linux Mint  https://linuxmint.com/
 
-# Local Development
+# 
+
+# Ebook
 1. Open index.html in your browser
 2. have fun. 
